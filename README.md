@@ -32,6 +32,16 @@
 | Inventory & Fulfillment | Inventory cost per unit | inventory.csv | The monthly storage cost per unit of inventory, e.g. $2.07 |
 | Inventory & Fulfillment | Warehouse Order fulfillment (days) | fulfillment.csv | The average amount of days it takes to refill stock if inventory drops below zero |
 
+The purpose of the project is to test your SQL & Power-BI skills on a real-world dataset focusing on supply chain analytics. This project will include:
+
+* The data was acquired from datacamp(https://app.datacamp.com/learn/competitions/supply-chain-analytics)
+* The deadline for the competition is due on August 5th.
+* Data Cleaning
+* Power BI Dashboard
+
+
+
+
 ## 🧾 Executive summary
 The analysis of the supply chain datasets reveals valuable insights into various aspects of the company's operations. Let's highlight some key findings:
 
